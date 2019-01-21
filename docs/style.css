@@ -1,0 +1,17 @@
+* {
+  --theme-color: #62abcc;
+  /* --theme-color: #ef9831; */
+}
+
+.github-corner svg {
+  fill: #ef9831;
+}
+
+/* section.cover .cover-main>p:last-child a:last-child {
+  background: #ef9831;
+}
+
+section.cover .cover-main>p:last-child a {
+  border: 1px solid #ef9831;
+  color: #ef9831;
+} */
