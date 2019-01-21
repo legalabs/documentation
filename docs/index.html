@@ -16,7 +16,13 @@
       name: 'Design System Legal Labs',
       repo: 'https://github.com/legalabs',
       loadNavbar: true,
-      coverpage: true
+      subMaxLevel: 3,
+      loadSidebar: true,
+      coverpage: true,
+      alias: {
+        '/.*/_sidebar.md': '/_sidebar.md',
+        '/.*/_navbar.md': '/_navbar.md'
+      }
     }
   </script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>

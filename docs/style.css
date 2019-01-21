@@ -15,3 +15,7 @@ section.cover .cover-main>p:last-child a {
   border: 1px solid #ef9831;
   color: #ef9831;
 } */
+
+.lang-html .token.attr-name {
+  color: #ef9831;
+}
